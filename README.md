@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://img.shields.io/badge/Welcome%20to%20My%20GitHub%20Profile-FF6F00?style=for-the-badge&logo=github&logoColor=white" />
+</p>
+
 <h1 align="center">👋 Hi there, I'm Bharat Dhande</h1>
 <h3 align="center">🚀 Aspiring AI/ML Engineer | 🖥️ Full Stack Developer | 🧠 Tech Enthusiast</h3>
 
@@ -9,7 +13,7 @@
 
 ### 👨‍💻 About Me
 
-- 🎓 Final Year B.E. Computer Science @ **Saraswati College of Engineering**
+- 🎓 **Final Year B.E. Computer Science @ Saraswati College of Engineering**
 - 🤖 Specializing in **Artificial Intelligence & Machine Learning**
 - 🌱 Currently building **Smart Farm** – An AI-powered system for crop, fertilizer recommendation & disease detection
 - 💡 Passionate about solving real-world problems with tech
@@ -68,6 +72,7 @@ ML regression model that predicts retail sales based on historical product and s
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bharatdhande&layout=compact&theme=github_dark&langs_count=8" />
 </p>
 
+---
 
 ### 🌐 Let's Connect
 
@@ -86,4 +91,3 @@ ML regression model that predicts retail sales based on historical product and s
 ---
 
 > *"Let’s innovate, collaborate, and code something impactful together!"* 🚀
-
