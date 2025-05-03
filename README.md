@@ -42,7 +42,7 @@ A fully functional e-commerce platform with user authentication, admin panel, pr
 #### 🌾 Smart Farm  
 **Stack:** `Python`, `Flask`, `ML Models`, `Admin Dashboard`  
 AI-powered solution for smart agriculture: crop + fertilizer recommendation, disease detection, price scraper  
-➡️ [GitHub Repo](https://github.com/bharatdhande/smart-farm)
+➡️ [GitHub Repo](https://github.com/BharatDhande/Smart_Farm)
 
 ---
 
