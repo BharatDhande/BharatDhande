@@ -32,12 +32,7 @@
 
 ### 🔥 Featured Projects
 
-#### 🛒 Cartify – E-Commerce App  
-**Stack:** `Java`, `Spring Boot`, `MySQL`, `REST API`  
-A fully functional e-commerce platform with user authentication, admin panel, product & order management  
-➡️ [GitHub Repo](https://github.com/BharatDhande/Cartify) • 🌐 _Live demo coming soon_
 
----
 
 #### 🌾 Smart Farm  
 **Stack:** `Python`, `Flask`, `ML Models`, `Admin Dashboard`  
@@ -45,7 +40,19 @@ AI-powered solution for smart agriculture: crop + fertilizer recommendation, dis
 ➡️ [GitHub Repo](https://github.com/BharatDhande/Smart_Farm)
 
 ---
+#### 🏦 FinEdge – Banking Portal
+**Stack:** `Spring Boot`, `Spring Security`, `MySQL`, `Angular`, `JWT`, `REST API`
+A modern banking platform with user registration, PIN management, fund transfers, transaction history, and secure JWT-based authentication
+➡️ [GitHub Repo](https://github.com/BharatDhande/bankingPortal) • 🌐 _Live demo coming soon_
 
+
+---
+#### 🛒 Cartify – E-Commerce App  
+**Stack:** `Java`, `Spring Boot`, `MySQL`, `REST API`  
+A fully functional e-commerce platform with user authentication, admin panel, product & order management  
+➡️ [GitHub Repo](https://github.com/BharatDhande/Cartify) • 🌐 _Live demo coming soon_
+
+---
 #### 🎓 Student Management System  
 **Stack:** `Java`, `JDBC`, `Swing`, `MySQL`  
 Desktop application to manage student records, attendance, marks, and database queries  
