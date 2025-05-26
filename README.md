@@ -40,10 +40,11 @@ AI-powered solution for smart agriculture: crop + fertilizer recommendation, dis
 ➡️ [GitHub Repo](https://github.com/BharatDhande/Smart_Farm)
 
 ---
-#### 🏦 FinEdge – Banking Portal
-**Stack:** `Spring Boot`, `Spring Security`, `MySQL`, `Angular`, `JWT`, `REST API`
-A modern banking platform with user registration, PIN management, fund transfers, transaction history, and secure JWT-based authentication
-➡️ [GitHub Repo](https://github.com/BharatDhande/bankingPortal) • 🌐 _Live demo coming soon_
+#### 🏦 FinEdge – Banking Portal  
+**Stack:** `Spring Boot`, `Spring Security`, `MySQL`, `Angular`, `JWT`, `REST API`  
+A modern banking platform with user registration, PIN management, fund transfers, transaction history, and secure JWT-based authentication  
+**➡️ GitHub Repo:** [https://github.com/BharatDhande/bankingPortal](https://github.com/BharatDhande/bankingPortal)  
+🌐 _Live demo coming soon_
 
 
 ---
