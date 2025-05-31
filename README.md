@@ -51,8 +51,9 @@ Implemented RAGify, a Retrieval-Augmented Generation (RAG) chatbot leveraging La
 #### 🏦 FinEdge – Banking Portal  
 **Stack:** `Spring Boot`, `Spring Security`, `MySQL`, `Angular`, `JWT`, `REST API`  
 A modern banking platform with user registration, PIN management, fund transfers, transaction history, and secure JWT-based authentication  
-➡️ [GitHub Repo](https://github.com/BharatDhande/FinEdge)
-🌐 _Live demo coming soon_
+➡️ [GitHub Repo](https://github.com/BharatDhande/RAGify)
+
+🌐 Live Demo
 
 
 ---
