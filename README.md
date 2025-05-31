@@ -40,6 +40,14 @@ AI-powered solution for smart agriculture: crop + fertilizer recommendation, dis
 ➡️ [GitHub Repo](https://github.com/BharatDhande/Smart_Farm)
 
 ---
+
+#### 🤖 RAGify – Website RAG Chatbot
+**Stack:** `Python`, `Flask`, `LangChain`, `Google Generative AI`, `FAISS`, `Gradio`
+Implemented RAGify, a Retrieval-Augmented Generation (RAG) chatbot leveraging LangChain and Google’s Generative AI to provide real-time, context-aware answers based on indexed web content. Utilized FAISS for efficient semantic vector search and designed a modular LLM pipeline for extensibility.
+➡️ [GitHub Repo](https://github.com/BharatDhande/RAGify)
+🌐 Live Demo
+
+---
 #### 🏦 FinEdge – Banking Portal  
 **Stack:** `Spring Boot`, `Spring Security`, `MySQL`, `Angular`, `JWT`, `REST API`  
 A modern banking platform with user registration, PIN management, fund transfers, transaction history, and secure JWT-based authentication  
