@@ -6,7 +6,7 @@
 <h3 align="center">🚀 Aspiring AI/ML Engineer | 🖥️ Full Stack Developer | 🧠 Tech Enthusiast</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=4000&pause=1000&color=58A6FF&center=true&vCenter=true&width=500&height=45&lines=Final+Year+CSE+Student;AI+%26+ML+Specialization;Java+%7C+Python+%7C+React+%7C+Spring+Boot+Dev;Open+Source+Contributor;Let%E2%80%99s+Build+Something+Amazing!">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=4000&pause=1000&color=58A6FF&center=true&vCenter=true&width=500&height=45&lines=AI+%26+ML+Specialization;Java+%7C+Python+%7C+React+%7C+Spring+Boot+Dev;Open+Source+Contributor;Let%E2%80%99s+Build+Something+Amazing!">
 </p>
 
 ---
