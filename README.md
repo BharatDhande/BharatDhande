@@ -13,11 +13,11 @@
 
 ### 👨‍💻 About Me
 
-- 🎓 **Final Year B.E. Computer Science @ Saraswati College of Engineering**
+- 🎓 **B.E. Computer Science @ Saraswati College of Engineering**
 - 🤖 Specializing in **Artificial Intelligence & Machine Learning**
 - 🌱 Currently building **Smart Farm** – An AI-powered system for crop, fertilizer recommendation & disease detection
 - 💡 Passionate about solving real-world problems with tech
-- 🔭 Exploring Full Stack Development using **Spring Boot**, **React**, **SQL**
+- 🔭 AI/ML Engineer | Generative AI & LLMs | Computer Vision Enthusiast
 - 📫 Reach me at: **bdhande45@gmail.com** 
 
 ---
@@ -25,7 +25,7 @@
 ### ⚙️ Tech Stack & Tools
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,spring,python,flask,react,html,css,js,bootstrap,git,github,mysql,vscode,postman,tensorflow,pandas" />
+  <img src="https://skillicons.dev/icons?i=python,flask,react,html,java,spring,css,js,bootstrap,git,github,mysql,vscode,postman,tensorflow,pandas" />
 </p>
 
 ---
