@@ -48,6 +48,15 @@ Implemented RAGify, a Retrieval-Augmented Generation (RAG) chatbot leveraging La
 🌐 Live Demo
 
 ---
+#### 📊 Big Mart Sales Prediction  
+**Stack:** `Python`, `Pandas`, `Scikit-learn`  
+ML regression model that predicts retail sales based on historical product and store data  
+➡️ [GitHub Repo](https://github.com/BharatDhande/Big-Mart)
+
+
+
+
+---
 #### 🏦 FinEdge – Banking Portal  
 **Stack:** `Spring Boot`, `Spring Security`, `MySQL`, `Angular`, `JWT`, `REST API`  
 A modern banking platform with user registration, PIN management, fund transfers, transaction history, and secure JWT-based authentication  
@@ -69,11 +78,6 @@ Desktop application to manage student records, attendance, marks, and database q
 ➡️ [GitHub Repo](https://github.com/BharatDhande/Student-management-system)
 
 ---
-
-#### 📊 Big Mart Sales Prediction  
-**Stack:** `Python`, `Pandas`, `Scikit-learn`  
-ML regression model that predicts retail sales based on historical product and store data  
-➡️ [GitHub Repo](https://github.com/BharatDhande/Big-Mart)
 
 ---
 
