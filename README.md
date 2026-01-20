@@ -4,14 +4,12 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Bharat%20Dhande&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=AI/ML%20Engineer%20|%20Python%20Developer&descAlignY=51&descAlign=50" width="100%"/>
 
 <!-- Dynamic Typing Animation -->
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=3B82F6&center=true&vCenter=true&multiline=true&repeat=true&width=650&lines=AI/ML+Engineer+%7C+Python+Specialist;Building+Intelligent+Systems+with+LLMs;RAG+%7C+Transformers+%7C+Computer+Vision;Turning+Data+into+Actionable+Insights" alt="Typing SVG" />
-</p>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=3B82F6&center=true&vCenter=true&multiline=true&repeat=true&width=650&height=100&lines=AI/ML+Engineer+%7C+Python+Specialist;Building+Intelligent+Systems+with+LLMs;RAG+%7C+Transformers+%7C+Computer+Vision;Turning+Data+into+Actionable+Insights" alt="Typing SVG" />
 
 <br/>
 
 <!-- Profile Views Counter & Social Badges -->
-<p align="center">
+<p>
   <img src="https://komarev.com/ghpvc/?username=bharatdhande&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="profile views" />
   <a href="https://www.linkedin.com/in/bharat-dhande-b6108625a/">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn"/>
