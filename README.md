@@ -7,6 +7,9 @@
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=3B82F6&center=true&vCenter=true&multiline=true&repeat=true&width=650&height=100&lines=AI/ML+Engineer+%7C+Python+Specialist;Building+Intelligent+Systems+with+LLMs;RAG+%7C+Transformers+%7C+Computer+Vision;Turning+Data+into+Actionable+Insights" alt="Typing SVG" />
 
 <br/>
+<br/>
+<br/>
+
 
 <!-- Profile Views Counter & Social Badges -->
 <p>
