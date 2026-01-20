@@ -477,8 +477,8 @@ print(f"My passion: {result}")
 
 <br/>
 
-![Made with Love](https://img.shields.io/badge/Made%20with-❤️-red?style=for-the-badge)
-![AI Powered](https://img.shields.io/badge/AI-Powered-blueviolet?style=for-the-badge)
+![Made with Love](https://img.shields.io/badge/Made%20with-❤️-blueviolet?style=for-the-badge)
+![BY BHARAT](https://img.shields.io/badge/BY-BHARAT-red?style=for-the-badge)
 ![Open Source](https://img.shields.io/badge/Open-Source-green?style=for-the-badge)
 
 </div>
