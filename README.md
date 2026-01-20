@@ -4,15 +4,14 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Bharat%20Dhande&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=AI/ML%20Engineer%20|%20Python%20Developer&descAlignY=51&descAlign=50" width="100%"/>
 
 <!-- Dynamic Typing Animation -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=3B82F6&center=true&vCenter=true&multiline=true&repeat=true&width=650&height=100&lines=AI/ML+Engineer+%7C+Python+Specialist;Building+Intelligent+Systems+with+LLMs;RAG+%7C+Transformers+%7C+Computer+Vision;Turning+Data+into+Actionable+Insights" alt="Typing SVG" />
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=3B82F6&center=true&vCenter=true&multiline=true&repeat=true&width=650&lines=AI/ML+Engineer+%7C+Python+Specialist;Building+Intelligent+Systems+with+LLMs;RAG+%7C+Transformers+%7C+Computer+Vision;Turning+Data+into+Actionable+Insights" alt="Typing SVG" />
+</p>
 
 <br/>
-<br/>
-<br/>
-
 
 <!-- Profile Views Counter & Social Badges -->
-<p>
+<p align="center">
   <img src="https://komarev.com/ghpvc/?username=bharatdhande&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="profile views" />
   <a href="https://www.linkedin.com/in/bharat-dhande-b6108625a/">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn"/>
@@ -265,25 +264,37 @@ print(f"👋 Hi! I'm {engineer.name}, transforming ideas into intelligent soluti
 
 <div align="center">
 
-<!-- GitHub Stats Cards -->
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=bharatdhande&show_icons=true&theme=react&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9&count_private=true&include_all_commits=true" />
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bharatdhande&layout=compact&theme=react&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&langs_count=10&hide=html,css" />
+<!-- GitHub Stats - Using reliable API endpoints -->
+<a href="https://github.com/bharatdhande">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=bharatdhande&show_icons=true&theme=react&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9&include_all_commits=false&count_private=false" alt="GitHub Stats"/>
+</a>
+<a href="https://github.com/bharatdhande">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bharatdhande&layout=compact&theme=react&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&langs_count=8" alt="Top Languages"/>
+</a>
 
 <br/><br/>
 
-<!-- GitHub Streak Stats -->
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=bharatdhande&theme=react&hide_border=true&background=0D1117&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF" width="49%" />
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=bharatdhande&theme=github_dark" width="49%" />
+<!-- Streak Stats -->
+<a href="https://github.com/bharatdhande">
+  <img src="https://streak-stats.demolab.com/?user=bharatdhande&theme=react&hide_border=true&background=0D1117&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF&sideLabels=58A6FF&dates=C9D1D9" alt="GitHub Streak" width="49%"/>
+</a>
+<a href="https://github.com/bharatdhande">
+  <img src="https://github-readme-stats.vercel.app/api?username=bharatdhande&show_icons=true&theme=react&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9&hide=issues,prs&show=reviews,discussions_answered" alt="Additional Stats" width="49%"/>
+</a>
 
 <br/><br/>
 
-<!-- Activity Graph -->
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=bharatdhande&theme=react-dark&hide_border=true&bg_color=0D1117&color=58A6FF&line=58A6FF&point=FFFFFF" width="98%"/>
+<!-- Contribution Graph -->
+<a href="https://github.com/bharatdhande">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=bharatdhande&custom_title=Contribution%20Activity%20Graph&theme=github-compact&hide_border=true&bg_color=0D1117&color=58A6FF&line=58A6FF&point=FFFFFF&area=true&hide_title=false" width="98%" alt="Contribution Graph"/>
+</a>
 
 <br/>
 
-<!-- Trophy Stats -->
-<img src="https://github-profile-trophy.vercel.app/?username=bharatdhande&theme=algolia&no-frame=true&no-bg=true&row=1&column=7" width="100%" />
+<!-- Trophy Display -->
+<a href="https://github.com/bharatdhande">
+  <img src="https://github-profile-trophy.vercel.app/?username=bharatdhande&theme=algolia&no-frame=true&no-bg=true&row=1&column=7&margin-w=10&margin-h=10" width="100%" alt="Trophy Stats"/>
+</a>
 
 </div>
 
@@ -343,13 +354,23 @@ mindmap
 
 <div align="center">
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=bharatdhande&theme=github_dark" width="98%" />
+<!-- Profile Summary with better error handling -->
+<a href="https://github.com/bharatdhande">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=bharatdhande&theme=github_dark&hide_border=true" width="98%" alt="Contribution Graph"/>
+</a>
 
 <br/><br/>
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=bharatdhande&theme=github_dark" width="32%" />
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=bharatdhande&theme=github_dark" width="32%" />
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=bharatdhande&theme=github_dark" width="32%" />
+<!-- Stats Cards in Grid -->
+<a href="https://github.com/bharatdhande">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=bharatdhande&theme=github_dark&hide_border=true" width="32%" alt="Repos per Language"/>
+</a>
+<a href="https://github.com/bharatdhande">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=bharatdhande&theme=github_dark&hide_border=true" width="32%" alt="Most Used Languages"/>
+</a>
+<a href="https://github.com/bharatdhande">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=bharatdhande&theme=github_dark&hide_border=true" width="32%" alt="Stats"/>
+</a>
 
 </div>
 
@@ -415,7 +436,7 @@ I'm passionate about building intelligent systems that solve real-world problems
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bharat-dhande-b6108625a/)
 [![Email](https://img.shields.io/badge/Email-Contact_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:bdhande45@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/BharatDhande)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://bharatdhande.github.io/me/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](#)
 
 <br/>
 
